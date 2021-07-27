@@ -1,1 +1,1 @@
-# config for fish, fontconfig , i3 and nvim
+# config for fish, i3 and nvim
